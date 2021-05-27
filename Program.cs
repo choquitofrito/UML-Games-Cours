@@ -36,6 +36,8 @@ namespace UML_Games_Cours
 
             // animal1.attaquer(90); non, pas dispo dans la clase mère/base
             Console.WriteLine (g);
+            g.Nom = "Gizmo";
+            Console.WriteLine ("Le Gremlin est " + g.Nom);
 
 
 
