@@ -29,7 +29,15 @@ namespace UML_Games_Cours
             // Héritage
             AnimalDomestique animal1 = new AnimalDomestique();
             animal1.seDeplacer();
-            
+
+            Gremlin g = new Gremlin();
+            g.seDeplacer();
+            g.attaquer(90);
+
+            // animal1.attaquer(90); non, pas dispo dans la clase mère/base
+            Console.WriteLine (g);
+
+
 
         }
     }
