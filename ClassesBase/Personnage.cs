@@ -37,6 +37,8 @@ namespace ClassesBase
         public void attaquer (){
             Console.WriteLine ("J'attaque!!");
         }
+
+
         public string obtenirDescription (){
             string description = "Je suis un personnage d'un jeu";
             return (description);
