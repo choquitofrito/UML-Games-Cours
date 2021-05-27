@@ -1,0 +1,13 @@
+C:\xampp\htdocs\UML-Games-Cours\bin\Debug\netcoreapp3.1\UML-Games-Cours.exe
+C:\xampp\htdocs\UML-Games-Cours\bin\Debug\netcoreapp3.1\UML-Games-Cours.deps.json
+C:\xampp\htdocs\UML-Games-Cours\bin\Debug\netcoreapp3.1\UML-Games-Cours.runtimeconfig.json
+C:\xampp\htdocs\UML-Games-Cours\bin\Debug\netcoreapp3.1\UML-Games-Cours.runtimeconfig.dev.json
+C:\xampp\htdocs\UML-Games-Cours\bin\Debug\netcoreapp3.1\UML-Games-Cours.dll
+C:\xampp\htdocs\UML-Games-Cours\bin\Debug\netcoreapp3.1\UML-Games-Cours.pdb
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.csprojAssemblyReference.cache
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.AssemblyInfoInputs.cache
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.AssemblyInfo.cs
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.dll
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.pdb
+C:\xampp\htdocs\UML-Games-Cours\obj\Debug\netcoreapp3.1\UML-Games-Cours.genruntimeconfig.cache
